@@ -1,6 +1,6 @@
 # flutter_mask
 
-A new Flutter project showing public mask info. before apply MVVM pattern.
+A new Flutter project showing public mask info. before applying MVVM pattern.
 
 ## Getting Started
 
