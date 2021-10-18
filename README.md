@@ -1,6 +1,6 @@
 # flutter_mask_App
 
-A new Flutter project showing public mask info. applied MVVM pattern.
+A new Flutter project showing public mask info. applied MVVM pattern & null safety.
 
 ## Getting Started
 
